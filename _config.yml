@@ -1,11 +1,11 @@
 # Site settings
 author: Evan Ratzlaff
-title: 
+title: Why_knot
 header-img: img/home-bg.png
 email: ratzlaff92@gmail.com
 copyright_name: Evan Ratzlaff
 description: > # this means to ignore newlines until "baseurl:"
-  
+  "A subtle yet, charismatic take on a slightly drab journey"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  EvanRatzlaff
