@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "A Generic Blog post explaining something."
-date:       2019-09-16 01:17:30 +0000
+title:      "Rails Project Blog Post"
+date:       2019-09-15 21:17:31 -0400
 permalink:  a_generic_blog_post_explaining_something
 ---
 
